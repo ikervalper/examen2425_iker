@@ -1,1 +1,2 @@
-estado=inicial
+estado=corregido=urgente
+revisado=ok
